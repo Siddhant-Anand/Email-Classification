@@ -1,0 +1,5 @@
+pandas
+nltk
+tqdm
+joblib
+scikit-learn
